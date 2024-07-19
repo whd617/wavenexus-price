@@ -1,6 +1,6 @@
 import React from 'react';
-import wavenexusImageLogo from './images/images/wavenexus-logo-two.png';
-import wavenexutImage from './images/images/wavenexus.png';
+import wavenexusImageLogo from '../images/images/wavenexus-logo-two.png';
+import wavenexutImage from '../images/images/wavenexus.png';
 import { Helmet, HelmetProvider } from 'react-helmet-async';
 
 function Home() {
