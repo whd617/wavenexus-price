@@ -9,7 +9,7 @@ function Home() {
       <HelmetProvider>
         <Helmet>
           <link rel='icon' type='image/png' href={wavenexusImageLogo} />
-          <title>Price | WAVENEXUS</title>
+          <title>Developer by WAVENEXUS</title>
         </Helmet>
       </HelmetProvider>
 
