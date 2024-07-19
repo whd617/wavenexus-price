@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wavenexus-price/static/css/main.3c7a881c.css",
-    "main.js": "/wavenexus-price/static/js/main.b5bc9bb2.js",
+    "main.js": "/wavenexus-price/static/js/main.cdbaf14a.js",
     "index.html": "/wavenexus-price/index.html",
     "main.3c7a881c.css.map": "/wavenexus-price/static/css/main.3c7a881c.css.map",
-    "main.b5bc9bb2.js.map": "/wavenexus-price/static/js/main.b5bc9bb2.js.map"
+    "main.cdbaf14a.js.map": "/wavenexus-price/static/js/main.cdbaf14a.js.map"
   },
   "entrypoints": [
     "static/css/main.3c7a881c.css",
-    "static/js/main.b5bc9bb2.js"
+    "static/js/main.cdbaf14a.js"
   ]
 }
